@@ -1,0 +1,6 @@
+{
+  "name": "TubeDownloader",
+  "description": "An ad-free, clean YouTube video & song downloader with high quality custom resolution selection, built-in offline media player, and metadata library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
